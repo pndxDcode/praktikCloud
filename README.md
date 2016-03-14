@@ -1,8 +1,8 @@
 # basic git command 
 - [x] git inint
 - [x] git remote add origin https://github.com/pndxDcode/myRepository
-- [x] git config --global user.email "pndxDcode@gmail.com"
-- [x] git config --global user.name "pndxDcode"
+- [x] git config --global user.email "ur.mail@dontknow.com"
+- [x] git config --global user.name "ur.userName"
 - [x] git add -A (all, of the file in the containing folder are add to the remote origin)
 - [x] git commit -m (messages)
 - [x] git push origin master 
