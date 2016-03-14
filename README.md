@@ -4,6 +4,8 @@ git config --global user.email "pndxDcode@gmail.com"
 git config --global user.name "pndxDcode"
 git add -A (all, of the file in the containing folder are add to the remote origin)
 git commit -m (messages)
+git push origin master 
+
 
 ##first class of /'praktik cloud computing'/ 
 		was just to creating new github
@@ -11,4 +13,7 @@ git commit -m (messages)
 		and commit then just push it.
 ##second meet up ###
 		Fetching from github repo using git command
-			to save the earlier project from the repo
+		actually, the term used in git aint 'fetch' but 'clone' instead.
+			to save the earlier project from the repo, and u can start
+			editing your earlier version of it and start publishing it 
+			
