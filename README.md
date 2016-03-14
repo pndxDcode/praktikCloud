@@ -1,6 +1,6 @@
 # basic git command 
 - [x] git inint
-- [x] git remote add origin https://github.com/pndxDcode/myRepository
+- [x] git remote add origin https://github.com/myRepo/myRepository.git
 - [x] git config --global user.email "ur.mail@dontknow.com"
 - [x] git config --global user.name "ur.userName"
 - [x] git add -A (all, of the file in the containing folder are add to the remote origin)
@@ -18,5 +18,6 @@
 		Fetching from github repo using git command
 		actually, the term used in git aint 'fetch' but 'clone' instead.
 			to save the earlier project from the repo, and u can start
-			editing your earlier version of it and start publishing it 
+			editing your earlier version of it and start publishing
+			by using `git push origin master`
 			
