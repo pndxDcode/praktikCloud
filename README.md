@@ -7,8 +7,8 @@
 - [x] git commit -m (messages)
 - [x] git push origin master 
 
-//![the Jokerr](https://pbs.twimg.com/profile_images/547913929377054720/qQxWVVs8.jpeg)
-<a href="url"><img src="https://pbs.twimg.com/profile_images/547913929377054720/qQxWVVs8.jpeg" align="left" height="200" width="400" ></a>
+<!-- ![the Jokerr](https://pbs.twimg.com/profile_images/547913929377054720/qQxWVVs8.jpeg) -->
+<a href="url"><img src="https://pbs.twimg.com/profile_images/547913929377054720/qQxWVVs8.jpeg" align="center" height="600" width="300" ></a>
 ###first meet up Praktik Cloud computing class
 		was just to creating new github
 		and then, try to creating new repository and stuff
