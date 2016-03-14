@@ -1,11 +1,11 @@
 # basic git command 
-> git inint
-> git remote add origin https://github.com/pndxDcode/myRepository
-> git config --global user.email "pndxDcode@gmail.com"
-> git config --global user.name "pndxDcode"
-> git add -A (all, of the file in the containing folder are add to the remote origin)
-> git commit -m (messages)
-> git push origin master 
+- [x] git inint
+- [x] git remote add origin https://github.com/pndxDcode/myRepository
+- [x] git config --global user.email "pndxDcode@gmail.com"
+- [x] git config --global user.name "pndxDcode"
+- [x] git add -A (all, of the file in the containing folder are add to the remote origin)
+- [x] git commit -m (messages)
+- [x] git push origin master 
 
 
 ###first class of /'praktik cloud computing'/ 
