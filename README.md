@@ -22,3 +22,7 @@
 			by using `git push origin master`
 ### 11 - april - 2016
 	its about gRPC on google compute platform
+### 30 - may - 2016
+	adding whatsapp group. .about to create a public group by Dr. Bambang pdp
+		try understanding how pull request work ...
+	
