@@ -22,3 +22,7 @@
 			by using `git push origin master`
 ### 11 - april - 2016
 	its about gRPC on google compute platform
+### 30 - may - 2016
+	adding a group `whatsapp` and establish a team to work on a public book project
+		guided by Dr. Bambang pdp . .
+	ps : this is from pndxDcode account.
