@@ -28,3 +28,5 @@
 	adding a group `whatsapp` and establish a team to work on a public book project
 		guided by Dr. Bambang pdp . .
 	ps : this is from pndxDcode account.
+	play with gRPC,.. again.. 
+	follow this tuts https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html?index=..%2F..%2Fio2016#0
