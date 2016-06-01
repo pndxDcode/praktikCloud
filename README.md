@@ -17,8 +17,8 @@
 	
 `ur bitBucket username is fendiD_ace`
 
-<!-- ![the Jokerr](https://pbs.twimg.com/profile_images/547913929377054720/qQxWVVs8.jpeg) -->
-<img style="float: right;" src="https://pbs.twimg.com/profile_images/547913929377054720/qQxWVVs8.jpeg">
+<!-- ![the Jokerr](http://www.imgbase.info/images/safe-wallpapers/tv_movies/batman/45406_batman_joker.jpg) -->
+<img style="float: right;" src="http://www.imgbase.info/images/safe-wallpapers/tv_movies/batman/45406_batman_joker.jpg">
 <!-- align="right" height="600" width="400"  -->
 ###first meet up Praktik Cloud computing class
 		was just to creating new github
