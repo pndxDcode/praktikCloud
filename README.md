@@ -25,8 +25,7 @@
 ### 11 - april - 2016
 	its about gRPC on google compute platform
 ### 30 - may - 2016
-	adding a group `whatsapp` and establish a team to work on a public book project
-		guided by Dr. Bambang pdp . .
-	ps : this is from pndxDcode account.
+	adding a group `whatsapp` and establish a team to work on a public book project guided by Dr. Bambang pdp . .
+	ps : this is pulled from pndxDcode account.
 	play with gRPC,.. again.. 
 	follow this tuts https://codelabs.developers.google.com/codelabs/cloud-grpc/index.html?index=..%2F..%2Fio2016#0
