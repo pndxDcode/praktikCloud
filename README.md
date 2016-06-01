@@ -7,12 +7,12 @@
 - [x] git commit -m (messages)
 - [x] git push origin master 
 
- ## this is a simplest way to pull request
-	1. fork your target repo
-	2. 'add remote' to the forking repo 
-	3. clone or pull to ur local machine
-	4. start editing and add the changes
-	5. push to master or branch
+ ##  a simplest way to perform pull request
+    1. fork your target repo
+    2. 'add remote' to the forking repo 
+    3. clone or pull to ur local machine
+    4. start editing and add the changes
+    5. push to master or branch
 
 `ur bitBucket username is fendiD_ace`
 
