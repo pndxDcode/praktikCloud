@@ -13,6 +13,7 @@
 - [x]    3. clone or pull to ur local machine
 - [x]    4. start editing and add the changes
 - [x]    5. push to master or branch
+- [x]	 6. then click `new pull request` from github website, adding a few comment and `create pull request`
 	
 `ur bitBucket username is fendiD_ace`
 
